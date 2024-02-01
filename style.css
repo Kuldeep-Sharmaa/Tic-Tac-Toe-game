@@ -75,7 +75,7 @@ nav ul {
 }
 
 span.info {
-  font-size: 2.7vw;
+  font-size: 3.7vw;
   letter-spacing: 2px;
   background-color: beige;
   padding: 6px 10px;
@@ -86,7 +86,7 @@ span.info {
 .love {
   display: flex;
   justify-content: center;
-  margin-top: 25vh;
+  margin-top: 5vh;
   font-family: "Courier New";
   align-items: center;
   color: #8a8f99;
@@ -109,4 +109,14 @@ span.info {
 .icons a {
   color: #8a8f99;
   margin: 0px 25px;
+}
+
+/* note */
+.note {
+  display: flex;
+  justify-content: center;
+  font-family: "Courier New";
+  font-size: 2.5vw;
+  line-height: 2;
+  margin: 0px 20px;
 }
